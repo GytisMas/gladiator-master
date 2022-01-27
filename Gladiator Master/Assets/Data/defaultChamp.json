@@ -1,0 +1,84 @@
+{
+    "Fighters": [
+        {
+            "ID": 0,
+            "Name": "Champion I",
+            "Strength": 20,
+            "Speed": 13,
+            "Agility": 12,
+            "Stamina": 11
+        },
+        {
+            "ID": 1,
+            "Name": "Champion II",
+            "Strength": 11,
+            "Speed": 12,
+            "Agility": 13,
+            "Stamina": 20
+        },
+        {
+            "ID": 2,
+            "Name": "Champion III",
+            "Strength": 11,
+            "Speed": 20,
+            "Agility": 12,
+            "Stamina": 13
+        },
+        {
+            "ID": 3,
+            "Name": "Champion IV",
+            "Strength": 59,
+            "Speed": 45,
+            "Agility": 44,
+            "Stamina": 52
+        },
+        {
+            "ID": 4,
+            "Name": "Champion V",
+            "Strength": 51,
+            "Speed": 57,
+            "Agility": 45,
+            "Stamina": 47
+        },
+        {
+            "ID": 5,
+            "Name": "Champion VI",
+            "Strength": 56,
+            "Speed": 48,
+            "Agility": 40,
+            "Stamina": 56
+        },
+        {
+            "ID": 6,
+            "Name": "Champion VII",
+            "Strength": 65,
+            "Speed": 67,
+            "Agility": 68,
+            "Stamina": 70
+        },
+        {
+            "ID": 7,
+            "Name": "Champion VIII",
+            "Strength": 70,
+            "Speed": 65,
+            "Agility": 66,
+            "Stamina": 69
+        },
+        {
+            "ID": 8,
+            "Name": "Champion IX",
+            "Strength": 61,
+            "Speed": 70,
+            "Agility": 69,
+            "Stamina": 70
+        },
+        {
+            "ID": 9,
+            "Name": "Champion X",
+            "Strength": 69,
+            "Speed": 69,
+            "Agility": 70,
+            "Stamina": 62
+        }
+    ]
+}
