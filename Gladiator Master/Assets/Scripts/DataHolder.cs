@@ -40,7 +40,6 @@ public class DataHolder : GenericSingletonClass<DataHolder>
     public static FighterContainer DefaultOwnedChampions()
     {
         FighterContainer _container = new FighterContainer();
-        _container.Add(new FighterData("Antans", 15, 10, 10, 10, "sword", "round"));
         return _container;
     }
 
